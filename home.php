@@ -27,7 +27,7 @@ include 'header.html';
                   <div class="text-center">
                     <img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 25rem;" src="img/social-media.svg" alt="">
                   </div>
-                  <p>Website ini menyediakan program untuk melakukan transaksi penjualan online, Anda dapat membuat sendiri website Anda dan segera menjual produk Anda!</p>
+                  <p>.::Masih tahap pengerjaan::. Website ini menyediakan program untuk melakukan transaksi penjualan online, Anda dapat membuat sendiri website Anda dan segera menjual produk Anda!</p>
                   <a target="_blank" rel="nofollow" href="https://hanyajasa.com/">Klik di sini untuk mendaftarkan website Anda &rarr;</a>
                 </div>
               </div>
